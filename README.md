@@ -12,6 +12,12 @@ A proposta envolve três abordagens principais:
 
 O projeto explora técnicas de detecção de fraudes em um cenário realista de dados altamente desbalanceados. A abordagem híbrida busca aproveitar as vantagens de cada modelo, reduzindo o número de transações analisadas sem comprometer a taxa de detecção de fraudes.
 
+## Requisitos para rodar o projeto localmente
+
+É necessário baixar os arquivos de treinamento diretamente no Kaggle.
+
+Disponível em: https://www.kaggle.com/datasets/kartik2112/fraud-detection/data
+
 ## Notebooks no Kaggle
 
 Os modelos também estão disponíveis como notebooks interativos no Kaggle:
