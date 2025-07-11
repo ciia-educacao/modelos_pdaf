@@ -1,6 +1,6 @@
-# Detecção de Fraudes com Random Forest e Isolation Forest
+# Detecção de Anomalias com Random Forest e Isolation Forest
 
-Este repositório reúne a implementação de modelos de aprendizado de máquina aplicados à detecção de fraudes em transações financeiras.
+Este repositório reúne a implementação de modelos de aprendizado de máquina aplicados à detecção de anomalias em transações financeiras.
 
 A proposta envolve três abordagens principais:
 
@@ -10,7 +10,7 @@ A proposta envolve três abordagens principais:
 
 ## Descrição
 
-O projeto explora técnicas de detecção de fraudes em um cenário realista de dados altamente desbalanceados. A abordagem híbrida busca aproveitar as vantagens de cada modelo, reduzindo o número de transações analisadas sem comprometer a taxa de detecção de fraudes.
+O projeto explora técnicas de detecção de anomalias em um cenário realista de dados altamente desbalanceados. A abordagem híbrida busca aproveitar as vantagens de cada modelo, reduzindo o número de transações analisadas sem comprometer a taxa de detecção de anomalias.
 
 ## Requisitos para rodar o projeto localmente
 
