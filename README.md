@@ -29,4 +29,4 @@ Os modelos também estão disponíveis como notebooks interativos no Kaggle:
 ## Repositório GitHub
 
 Código-fonte completo disponível em:  
-https://github.com/ciia-educacao/models_isolation_random
+[https://github.com/ciia-educacao/models_isolation_random](https://github.com/ciia-educacao/modelos_pdaf)
